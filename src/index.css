@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+
+
+
+@theme{
+
+
+    --color-primary:#22c55e;
+    --color-secondry:#2563eb;
+
+
+}
+
+.navbar{
+
+
+    z-index: 100rem !important;
+}
